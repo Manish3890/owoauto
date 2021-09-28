@@ -12,7 +12,7 @@ prefix = "!!"
 
 #use the .env feature to hide your token
 
-token = os.getenv("TOKEN")
+token =("NTQ5OTIzNjg0ODQwNjM2NDM3.YP6t4Q.TaYDmrn5Oom_C1YHr-Ihm0GTZ7Q")
 
 #---------------#
 
